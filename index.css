@@ -1,0 +1,49 @@
+body {
+  background-color: #574f59;
+}
+
+h1 {
+  background-color: #bdb7c4;
+  color: #574f59;
+  text-align: center;
+  font-family: "Georgia";
+}
+
+p {
+  color: #deded9;
+  font-family: "Garamound";
+}
+
+h3 {
+  color: #deded9;
+  font-family: "Georgia";
+}
+
+ul {
+  list-style-position: inside;
+  color: #deded9;
+  font-family: "Garamound";
+}
+
+img.mhimage {
+  margin: center;
+  border: 10px solid #bdb7c4;
+}
+
+img.mcimage {
+  margin: center;
+  border: 10px solid #bdb7c4;
+}
+
+img.celloimage {
+  margin: center;
+  border: 10px solid #bdb7c4;
+}
+
+#gameboard {
+  width: 50vw;
+  height: 150vh;
+  
+  margin: 70px auto;
+  border: 5px solid #bdb7c4;
+}
